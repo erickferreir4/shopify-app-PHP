@@ -8,7 +8,7 @@ Download with zip or clone https://github.com/erickferreir4/shopify-app-PHP.git
 
 ### Prerequisites
 
-Tenha certeza que voce tenha um servidor https:
+Make sure you have an https server:
 
 ```
 https://youwebhost.com/
